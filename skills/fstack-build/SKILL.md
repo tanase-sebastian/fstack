@@ -21,6 +21,7 @@ Implement the approved plan in small steps. Verify each step before moving on. P
 5. Mark the step done in `PLAN.md`.
 6. If the next step involves a real choice — library, API shape, naming that leaks into the public surface — **stop and ask** before proceeding.
 7. Otherwise, continue to the next unfinished step. Repeat from step 1.
+8. Once per task, leave one small, interesting piece as a TODO for the human, with a hint
 
 ## Stop and ask
 

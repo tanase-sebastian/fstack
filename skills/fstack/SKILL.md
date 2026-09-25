@@ -39,6 +39,7 @@ When there is no task, show this list:
 | `/fstack-document` | Write docs/ for the project, ELI5 to deep. Run again to update them. |
 | `/fstack-learn` | Capture one lesson in three lines, so future sessions start smarter. |
 | `/fstack-push` | Commit the current task's changes and push to the remote. Nothing else. |
+| `/fstack-teach` | Turn finished work into a short lesson for the human, so they learn from what was built. |
 
 ## Routing map
 
@@ -56,6 +57,7 @@ When there is no task, show this list:
 | Project needs docs, or the docs have gone stale | `/fstack-document` |
 | Something worth remembering just happened | `/fstack-learn` |
 | Just want it committed and pushed | `/fstack-push` |
+| A short lesson for the human to learn | `/fstack-teach` |
 
 ## Stop and ask
 
